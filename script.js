@@ -12,7 +12,7 @@ const products = {
       name: 'Hidratante de pó de Fada',
       description: 'Hidratante leve e mágico, feito com pó de Fada.',
       price: 49.90,
-      image: './assets/2.png',
+      image: './assets/3.png',
       parcela: '5x de 9,99'
     },
     3: {
@@ -20,7 +20,7 @@ const products = {
       name: 'Protetor solar de cinza de Phoenix',
       description: 'Protetor solar resistente e eficaz, feito com cinza de Phoenix.',
       price: 79.90,
-      image: './assets/3.png',
+      image: './assets/2.png',
       parcela: '5x de 15,99'
     },
     4: {
